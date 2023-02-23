@@ -84,34 +84,9 @@ Aplikasi ini dapat dipasang pada server lokal dan onlne dengan spesifikasi berik
 ## Testing
 Ingin mencoba automated testingnya? Silakan ketik perintah pada terminal: `vendor/bin/phpunit`
 
-## Screenshots
-
-#### Pohon Keluarga
-![Pohon Keluarga](public/images/02-pohon-keluarga.jpg "Pohon Keluarga")
-
-Tampilan pohon keluarga ini menggunakan [Horizontal Family Tree CSS](https://codepen.io/P233/pen/Kzbsi), terima kasih kepada [Peiwen Lu](https://codepen.io/P233/pen/Kzbsi).
-
-#### Bagan Keluarga
-![Bagan Keluarga](public/images/03-bagan-keluarga.jpg "Bagan Keluarga")
-
-#### Cari Keluarga
-![Cari Keluarga](public/images/01-cari-keluarga.jpg "Cari Keluarga")
-
-#### Profil
-![Profil](public/images/04-profil.jpg "Profil")
-
-#### Form Profil
-![Form Profil](public/images/05-form-profil.jpg "Form Profil")
-
-#### Edit Profil
-![Edit Profil](public/images/06-edit-profil.jpg "Edit Profil")
-
 #### Automated Testing
 ```bash
 $ vendor/bin/phpunit
 ```
 ![Automated Testing](public/images/07-automated-testing.jpg "Automated Testing")
 
-## License
-
-Project Silsilah merupakan software open-source di bawah lisensi [Lisensi MIT](LICENSE).
