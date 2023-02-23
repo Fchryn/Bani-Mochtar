@@ -1,4 +1,4 @@
-@extends('layouts.user-profile-wide')
+@extends('layouts.user-profile')
 
 @section('subtitle', trans('app.family_chart'))
 

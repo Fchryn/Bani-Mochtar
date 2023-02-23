@@ -82,34 +82,5 @@ This application built with testing (TDD) using in-memory sqlite database.
 $ vendor/bin/phpunit
 ```
 
-## Contributing
-Feel free to submit Issue for bugs or sugestions and Pull Request.
-
-## Screenshots
-
-#### Family Tree
-![Family Tree](public/images/02-pohon-keluarga.jpg "Family Tree")
-
-This family tree view is using the [Horizontal Family Tree CSS](https://codepen.io/P233/pen/Kzbsi), thanks to [Peiwen Lu](https://codepen.io/P233/pen/Kzbsi).
-
-#### Family Chart
-![Family Chart](public/images/03-bagan-keluarga.jpg "Family Chart")
-
-#### Search Family Member
-![Search Family Member](public/images/01-cari-keluarga.jpg "Search Family Member")
-
-#### User Profile
-![User Profile](public/images/04-profil.jpg "User Profile")
-
-#### Profile Form
-![Profile Form](public/images/05-form-profil.jpg "Profile Form")
-
-#### Profil Edit Form
-![Profil Edit Form](public/images/06-edit-profil.jpg "Profil Edit Form")
-
 #### Automated Testing
 ![Automated Testing](public/images/07-automated-testing.jpg "Automated Testing")
-
-## License
-
-Silsilah project is open-sourced software licensed under the [MIT license](LICENSE).
